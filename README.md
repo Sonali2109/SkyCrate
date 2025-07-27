@@ -2,7 +2,7 @@
 Skycrate is a web based file management system that uses Hadoop as filesystem.
 
 
-Dockerized a Hadoop cluster to resolve dependency issues, hosting it internally and exposing it to the team via Tailscale.
+## Dockerized a Hadoop cluster to resolve dependency issues, hosting it internally and exposing it to the team via Tailscale.
 Integrated internationalization (i18n) for multilingual support across the frontend.
 Implemented hybrid RSA-AES encryption for each file, utilizing user-specific key pairs.
 Established strong password policies with breach checks via Have I Been Pwned.
